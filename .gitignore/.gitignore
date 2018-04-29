@@ -1,4 +1,4 @@
-	.DS_Store
-	.idea/
-	.next/
-  node_modules/
+.DS_Store
+.idea/
+.next/
+node_modules/
